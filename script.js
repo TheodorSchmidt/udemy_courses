@@ -1,5 +1,3 @@
 "use strict";
- 
-const category = 'toys';
-
-console.log(`https://site.com/${category}/5`);
+//создать переменную и поместить в нее ответ от пользователя 
+let numberOfFilms = prompt("Сколько фильмов вы уже посмотрели?", "");
